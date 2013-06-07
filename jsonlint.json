@@ -1,0 +1,12 @@
+{
+    "name": katsh.jsonlint",
+    "title": "Simple JSON parser",
+    "description": "Ctrl + Shift + j to run. If current document is a .json, parse the whole file. If it isn't, parse the text selection",
+    "homepage": "soon",
+    "version": "1.0.0",
+    "author": "Bruce F <your@email> (http://kat,sh)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
