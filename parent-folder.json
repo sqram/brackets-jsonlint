@@ -1,0 +1,11 @@
+{
+    "name": "katsh.parent-dir",
+    "title": "Displays parent folder on Woking Files panel",
+    "homepage": "",
+    "version": "1.0.0",
+    "author": "Bruce F <your@email> (http://kat.sh)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
