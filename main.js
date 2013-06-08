@@ -102,7 +102,7 @@ define(function (require, exports, module) {
    
     
 
-    var PARSE_CMD_ID = "katsh.parseJSON";   // package-style naming to avoid collisions
+    var PARSE_CMD_ID = "katsh.JSONLint";   // package-style naming to avoid collisions
     CommandManager.register("Parse json", PARSE_CMD_ID, init);
     
     // Then create a menu item bound to the command
