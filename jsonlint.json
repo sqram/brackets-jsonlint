@@ -1,6 +1,8 @@
 {
     "name": "katsh.jsonlint",
     "title": "Validates json files and strings",
+	"description" : "Validates json files and strings",
+	"keywords" : "json, lint, validator",
     "homepage": "",
     "version": "1.0.0",
     "author": "Bruce F <your@email> (http://kat.sh)",
